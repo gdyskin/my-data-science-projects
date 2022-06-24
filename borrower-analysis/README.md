@@ -1,7 +1,21 @@
-# Exploration of advertisements for the sale of apartments
+# Borrower Reliability Study
 
-Data: archive of advertisements from Yandex.RealEstate for the sale of apartments in St. Petersburg and its region over past several years
+Data: statistics on the solvency of customers.
+ 
+Data description:
+* *children* — number of children in the family 
+* *days_employed* - total work experience in days
+* *dob_years* - client's age in years
+* *education* — the level of education of the client
+* *education_id* — education level identifier
+* *family_status* - marital status
+* *family_status_id* - marital status identifier
+* *gender* - gender of the client
+* *income_type* - type of employment
+* *debt* - whether he had debt to repay loans
+* *total_income* - monthly income
+* *purpose* - the purpose of obtaining a loan
 
-The goal of this analytics project is to determine factors that most affect the price of real estate objects. 
+The goal of this analytics project is to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
 
-Libraries: Pandas
+Libraries: Pandas, pymystem3
