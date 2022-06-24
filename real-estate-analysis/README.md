@@ -1,5 +1,9 @@
 # Exploration of advertisements for the sale of apartments
 
+Goal: Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments 
+
+Description: Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. Data preprocessing has been carried out. Added new data. Histograms, boxplots, scatterplots are constructed.
+
 Data: archive of advertisements from Yandex.RealEstate for the sale of apartments in St. Petersburg and its region over past several years
 
 Data Description:
@@ -25,7 +29,6 @@ Data Description:
 * *studio* - studio apartment (boolean)
 * *total_area* - area of the apartment in square meters (m²)
 * *total_images* - the number of photos of the apartment in the ad
-
-The goal of this analytics project is to determine factors that most affect the price of real estate objects. 
+ 
 
 Libraries: Pandas
