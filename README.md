@@ -1,5 +1,6 @@
 # my-data-science-projects
 My projects that were completed during the training at Yandex.Practicum:
+
 *01 Borrower Reliability Study - Banking Data Analysis*
 
 *02 Exploration of advertisements for the sale of apartments*
