@@ -1,5 +1,4 @@
-# Title
-Determination of a favorable tariff for a telecom company
+# Determination of a favorable tariff for a telecom company
 
 Area: Marketing Analysis, Product Analysis, Data Analysis
 
