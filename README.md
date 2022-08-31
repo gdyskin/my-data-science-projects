@@ -15,4 +15,4 @@ My projects that were completed during the training at Yandex.Practicum:
 
 *07 Exploration of advertisements for the sale of apartments*
 
-*08 tudy of the technological process of gold refining*
+*08 Study of the technological process of gold refining*
