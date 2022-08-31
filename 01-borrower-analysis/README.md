@@ -28,7 +28,7 @@ Data description:
 
 
 Libraries: 
-*Pandas, pymystem3
+* Pandas, pymystem3
 
 Tags: 
 * data processing, duplicates, gaps, categorization, decomposition
