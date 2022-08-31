@@ -1,7 +1,7 @@
 # my-data-science-projects
 My projects that were completed during the training at Yandex.Practicum:
 
-*01 Borrower Reliability Study - Banking Data Analysis*
+[*Borrower Reliability Study - Banking Data Analysis*](https://github.com/gdyskin/my-data-science-projects/tree/main/01-borrower-analysis)
 
 *02 Exploration of advertisements for the sale of apartments*
 
