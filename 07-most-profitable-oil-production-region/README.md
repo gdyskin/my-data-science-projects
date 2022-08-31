@@ -1,10 +1,13 @@
 # Exploration of advertisements for the sale of apartments
 
-Goal: Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments 
+Goal: 
+* Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments 
 
-Description: Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. Data preprocessing has been carried out. Added new data. Histograms, boxplots, scatterplots are constructed.
+Description: 
+* Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. Data preprocessing has been carried out. Added new data. Histograms, boxplots, scatterplots are constructed.
 
-Data: archive of advertisements from Yandex.RealEstate for the sale of apartments in St. Petersburg and its region over past several years
+Data: 
+* Archive of advertisements from Yandex.RealEstate for the sale of apartments in St. Petersburg and its region over past several years
 
 Data Description:
 * *airports_nearest* - distance to the nearest airport in meters (m)
@@ -31,6 +34,11 @@ Data Description:
 * *total_images* - the number of photos of the apartment in the ad
  
 
-Libraries: Pandas, Scikit-learn
+Libraries: 
+* Pandas, Scikit-learn
 
-Tags: regression, business model development, bootstrap
+Tags: 
+* regression, business model development, bootstrap
+
+Project status:
+* Completed
