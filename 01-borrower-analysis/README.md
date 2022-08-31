@@ -1,6 +1,7 @@
 # Borrower Reliability Study - Banking Data Analysis
 
-Areas: * Banking, Lending, Data Analysis, Financial Analysis
+Areas: 
+* Banking, Lending, Data Analysis, Financial Analysis
 
 Goal of the project: To find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
 
