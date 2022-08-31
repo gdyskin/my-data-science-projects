@@ -1,4 +1,4 @@
-# Development of new oil fields
+# Determination of the most profitable oil production region
 
 Goal:
 * Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss.
