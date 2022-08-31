@@ -13,6 +13,6 @@ My projects that were completed during the training at Yandex.Practicum (in chro
 
 [*Forecasting the Bank's customer churn*](https://github.com/gdyskin/my-data-science-projects/tree/main/06-bank-customer-churn-prediction)
 
-[*Exploration of advertisements for the sale of apartments*](https://github.com/gdyskin/my-data-science-projects/tree/main/07-most-profitable-oil-production-region)
+[*Determination of the most profitable oil production region*](https://github.com/gdyskin/my-data-science-projects/tree/main/07-most-profitable-oil-production-region)
 
 [*Study of the technological process of gold refining*](https://github.com/gdyskin/my-data-science-projects/tree/main/08-gold-recovery-from-ore)
