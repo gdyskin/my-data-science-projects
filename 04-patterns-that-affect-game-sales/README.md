@@ -23,10 +23,10 @@ Data Description:
 * *Rating* - rating from the ESRB
 
 Libraries: 
-*Python, Pandas, Matplotlib
+* Python, Pandas, Matplotlib
 
 Tags: 
-*data analysis
+* data analysis
 
 Project status:
 * Completed
