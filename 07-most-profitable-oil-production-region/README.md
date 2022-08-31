@@ -15,7 +15,7 @@ Data Description:
 * *product* - the volume of reserves in the well (thousand barrels).
 
 Libraries:
-* Pandas, sklearn, math, numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning
+* Pandas, sklearn, numpy, Matplotlib, Bootstrap, Machine Learning
 
 Tags:
 * Bootstrap, machine learning, Python, Pandas, Numpy, Matplotlib, Sklearn, gradient boosting, regression
