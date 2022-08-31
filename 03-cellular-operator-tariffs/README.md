@@ -1,11 +1,16 @@
 # Determination of a favorable tariff for a telecom company
 
-Area: Marketing Analysis, Product Analysis, Data Analysis
+Area: 
+* Marketing Analysis, Product Analysis, Data Analysis
 
-Goal of the project: Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff
-Project description: A preliminary analysis of the use of tariffs on a sample of customers was carried out, the behavior of customers when using the operator's services was analyzed, and optimal sets of services for users were recommended. The data were preprocessed and analyzed. The hypotheses about the difference in the revenue of subscribers of different tariffs and the difference in the revenue of subscribers from Moscow and other regions were tested.
+Goal of the project: 
+* Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff
 
-Data: Data on 500 users of the mobile operator: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018.
+Project description: 
+* A preliminary analysis of the use of tariffs on a sample of customers was carried out, the behavior of customers when using the operator's services was analyzed, and optimal sets of services for users were recommended. The data were preprocessed and analyzed. The hypotheses about the difference in the revenue of subscribers of different tariffs and the difference in the revenue of subscribers from Moscow and other regions were tested.
+
+Data: 
+* Data on 500 users of the mobile operator: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018.
 
 Data description:
 
@@ -46,6 +51,11 @@ Table "tariffs" (information about tariffs):
 * *rub_per_message* — the cost of sending a message in excess of the tariff package
 * *rub_per_gb* - the cost of an additional gigabyte of Internet traffic in excess of the tariff package (1 gigabyte = 1024 megabytes)
 
-Libraries: Python, Pandas, Matplotlib, NumPy, SciPy
+Libraries: 
+* Python, Pandas, Matplotlib, NumPy, SciPy
 
-Tags: descriptive statistics, statistical hypothesis testing
+Tags: 
+* descriptive statistics, statistical hypothesis testing
+
+Project status:
+* Completed
