@@ -1,13 +1,17 @@
 # Forecasting the Bank's customer churn
 
-Area: Machine Learning, Classification Model
+Area: 
+* Machine Learning, Classification Model
 
-Goal of the project: Using the bank's data, identify a customer who can leave the bank.
+Goal of the project: 
+* Using the bank's data, identify a customer who can leave the bank.
 
-Project description: Customers started to leave the bank. Every month. A little, but noticeably. Bank marketers thought that it was cheaper to keep the existing customers than to attract new ones.
+Project description: 
+* Customers started to leave the bank. Every month. A little, but noticeably. Bank marketers thought that it was cheaper to keep the existing customers than to attract new ones.
 It is necessary to predict whether the customer will leave the bank in the near future or not. Historical data on customer behavior and termination of contracts with the bank were provided.
 
-Data: Data on the behavior of customers who have already switched to these tariffs.
+Data: 
+* Data on the behavior of customers who have already switched to these tariffs.
 
 Data description:
 
@@ -29,6 +33,11 @@ Features:
 Target feature:
 * *Exited* - the fact that the client left
 
-Libraries: Python, Pandas, Matplotlib, Scikit-learn
+Libraries: 
+* Python, Pandas, Matplotlib, Scikit-learn
 
-Tags: classification, tuning of hyperparameters, choice of ML model
+Tags: 
+* classification, tuning of hyperparameters, choice of ML model
+
+Project status:
+* Completed

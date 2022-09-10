@@ -1,12 +1,16 @@
 # Borrower Reliability Study - Banking Data Analysis
 
-Areas: Banking, Lending, Data Analysis, Financial Analysis
+Areas: 
+* Banking, Lending, Data Analysis, Financial Analysis
 
-Goal of the project: To find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
+Goal of the project: 
+* To find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
 
-Project description: Based on the data of the credit department of the bank, I studied the influence of marital status and the number of children on the fact of repaying the loan on time. Data information has been received. Identified and processed omissions. The data types have been replaced with the ones corresponding to the stored data. Removed duplicates. Categorized data.
+Project description: 
+* Based on the data of the credit department of the bank, I studied the influence of marital status and the number of children on the fact of repaying the loan on time. Data information has been received. Identified and processed omissions. The data types have been replaced with the ones corresponding to the stored data. Removed duplicates. Categorized data.
 
-Data: statistics on the solvency of customers.
+Data: 
+* Statistics on the solvency of customers
  
 Data description:
 * *children* — number of children in the family 
@@ -23,6 +27,11 @@ Data description:
 * *purpose* - the purpose of obtaining a loan
 
 
-Libraries: Pandas, pymystem3
+Libraries: 
+* Pandas, pymystem3
 
-Tags: data processing, duplicates, gaps, categorization, decomposition
+Tags: 
+* data processing, duplicates, gaps, categorization, decomposition
+
+Project status:
+* Completed

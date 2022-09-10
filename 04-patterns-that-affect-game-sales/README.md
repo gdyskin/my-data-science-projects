@@ -1,10 +1,13 @@
-# Identifying patterns that determine the success of the game.
+# Identifying patterns that determine the success of the game
 
-Goal: Based on historical data on computer and console game sales, analyze the factors that influence the commercial success of the game.
+Goal: 
+* Based on historical data on computer and console game sales, analyze the factors that influence the commercial success of the game.
 
-Description: For an international online business for computer and console games, it is necessary to identify the patterns that determine the success of the game. This will make it possible to bid on a potentially popular product and plan advertising campaigns.
+Description: 
+* For an international online business for computer and console games, it is necessary to identify the patterns that determine the success of the game. This will make it possible to bid on a potentially popular product and plan advertising campaigns.
 
-Data: Historical data on game sales, user and expert ratings, genres and platforms up to year 2016.
+Data: 
+* Historical data on game sales, user and expert ratings, genres and platforms up to year 2016.
 
 Data Description: 
 * *Name* - the name of the game
@@ -19,6 +22,11 @@ Data Description:
 * *User_Score* - user score (maximum 10)
 * *Rating* - rating from the ESRB
 
-Libraries: Python, Pandas, Matplotlib
+Libraries: 
+* Python, Pandas, Matplotlib
 
-Tags: data analysis
+Tags: 
+* data analysis
+
+Project status:
+* Completed

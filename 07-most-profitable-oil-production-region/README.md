@@ -1,36 +1,24 @@
-# Exploration of advertisements for the sale of apartments
+# Determination of the most profitable oil production region
 
-Goal: Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments 
-
-Description: Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. Data preprocessing has been carried out. Added new data. Histograms, boxplots, scatterplots are constructed.
-
-Data: archive of advertisements from Yandex.RealEstate for the sale of apartments in St. Petersburg and its region over past several years
-
-Data Description:
-* *airports_nearest* - distance to the nearest airport in meters (m)
-* *balcony* — number of balconies
-* *ceiling_height* - ceiling height (m)
-* *cityCenters_nearest* - distance to the city center (m)
-* *days_exposition* - how many days the ad was placed (from publication to withdrawal)
-* *first_day_exposition* - publication date
-* *floor* - floor
-* *floors_total* - total floors in the building
-* *is_apartment* - apartments (boolean)
-* *kitchen_area* - kitchen area in square meters (m²)
-* *last_price* - price at the time of unpublishing
-* *living_area* - living area in square meters (m²)
-* *locality_name* — name of the locality
-* *open_plan* - open plan (boolean)
-* *parks_around3000* - number of parks within a 3 km radius
-* *parks_nearest* - distance to the nearest park (m)
-* *ponds_around3000* - the number of ponds within a radius of 3 km
-* *ponds_nearest* — distance to the nearest body of water (m)
-* *rooms* - number of rooms
-* *studio* - studio apartment (boolean)
-* *total_area* - area of the apartment in square meters (m²)
-* *total_images* - the number of photos of the apartment in the ad
+Goal:
+* Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss.
  
+Description:
+* The production company needs to decide where to drill a new well. Collected characteristics of oil sample for wells: oil quality and volume of its reserves in three regions. The characteristics for each well in the region are already known. A model has been built to predict the volume of reserves in new wells. Wells with the highest estimated values were selected. The regions with the maximum total profit of the selected wells have been identified. A model has been built to determine the region where production will bring the greatest profit. Potential profits and risks were analyzed using Bootstrap technique.
 
-Libraries: Pandas, Scikit-learn
+Data: 
+* Oil samples from three different regions. The characteristics for each well in the region are already known.
 
-Tags: regression, business model development, bootstrap
+Data Description: 
+* *id* - the unique identifier of the well;
+* *f0, f1, f2* - three signs of points (it doesn't matter what they mean, but the signs themselves are significant);
+* *product* - the volume of reserves in the well (thousand barrels).
+
+Libraries:
+* Pandas, sklearn, numpy, Matplotlib, Bootstrap, Machine Learning
+
+Tags:
+* Bootstrap, machine learning, Python, Pandas, Numpy, Matplotlib, Sklearn, gradient boosting, regression
+
+Project status:
+* Completed

@@ -1,18 +1,18 @@
 # my-data-science-projects
-My projects that were completed during the training at Yandex.Practicum:
+My projects that were completed during the training at Yandex.Practicum (in chronological order):
 
-*01 Borrower Reliability Study - Banking Data Analysis*
+[Borrower Reliability Study - Banking Data Analysis](https://github.com/gdyskin/my-data-science-projects/tree/main/01-borrower-analysis)
 
-*02 Exploration of advertisements for the sale of apartments*
+[Exploration of advertisements for the sale of apartments](https://github.com/gdyskin/my-data-science-projects/tree/main/02-real-estate-analysis)
 
-*03 Determination of a favorable tariff for a telecom company*
+[Determination of a favorable tariff for a telecom company](https://github.com/gdyskin/my-data-science-projects/tree/main/03-cellular-operator-tariffs)
 
-*04 Identifying patterns that determine the success of the game*
+[Identifying patterns that determine the success of the game](https://github.com/gdyskin/my-data-science-projects/tree/main/04-patterns-that-affect-game-sales)
 
-*05 Telecom company customer classification*
+[Telecom company customer classification](https://github.com/gdyskin/my-data-science-projects/tree/main/05-ml-tariff-recommendation)
 
-*06 Forecasting the Bank's customer churn*
+[Forecasting the Bank's customer churn](https://github.com/gdyskin/my-data-science-projects/tree/main/06-bank-customer-churn-prediction)
 
-*07 Exploration of advertisements for the sale of apartments*
+[Determination of the most profitable oil production region](https://github.com/gdyskin/my-data-science-projects/tree/main/07-most-profitable-oil-production-region)
 
-*08 tudy of the technological process of gold refining*
+[Study of the technological process of gold refining](https://github.com/gdyskin/my-data-science-projects/tree/main/08-gold-recovery-from-ore)
