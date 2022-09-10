@@ -3,7 +3,7 @@ My projects that were completed during the training at Yandex.Practicum (in chro
 
 [Borrower Reliability Study - Banking Data Analysis](https://github.com/gdyskin/my-data-science-projects/tree/main/01-borrower-analysis)
 
-* Determination how the marital status and the number of the client's children affect the fact of the loan repayment on time
+* Determination how the marital status and the number of the client's children affect the fact of the loan repayment on time.
 
 [Exploration of advertisements for the sale of apartments](https://github.com/gdyskin/my-data-science-projects/tree/main/02-real-estate-analysis)
 
